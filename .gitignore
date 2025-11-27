@@ -3,5 +3,5 @@ dist/
 dist-singlefile/
 .cache/
 .local/
-.upm/
+.npm/
 *.log
