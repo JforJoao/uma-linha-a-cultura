@@ -1,0 +1,7 @@
+node_modules/
+dist/
+dist-singlefile/
+.cache/
+.local/
+.upm/
+*.log
